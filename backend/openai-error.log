@@ -1,0 +1,22 @@
+
+ERROR DETAILS:
+Name: Error
+Message: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
+Code: insufficient_quota
+Status: 429
+Full Error: {
+  "status": 429,
+  "headers": {},
+  "requestID": "req_3b4468e7b18944338d97976b84085461",
+  "error": {
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "type": "insufficient_quota",
+    "param": null,
+    "code": "insufficient_quota"
+  },
+  "code": "insufficient_quota",
+  "param": null,
+  "type": "insufficient_quota"
+}
+Time: 2025-10-29T20:08:08.002Z
+    
